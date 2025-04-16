@@ -1,5 +1,3 @@
----
-
 # Custom Unordered Set Implementation in C++
 
 A custom implementation of an unordered_set container in C++, designed to mimic most of the functionality provided by the C++ Standard Library’s `std::unordered_set`. This project demonstrates the creation of a hash-based container with features such as:
@@ -131,5 +129,3 @@ After building the project using your preferred method, simply run the generated
 ```
 
 You will see output from various tests that validate the functionality of the container. Make sure your compiler flags are set appropriately to enable C++17 or later standards.
-
----
